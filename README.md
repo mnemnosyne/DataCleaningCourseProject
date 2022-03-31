@@ -1,7 +1,7 @@
 # DataCleaningCourseProject
 Course Project for John Hopkins Data Cleaning with R course
 
-THis project uses the UCI HAR Dataset provided in the course, originally from Human Activity Recognition Using Smartphones Data Set of the UCI Machine Learning Repository [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+This project uses the UCI HAR Dataset provided in the course, originally from Human Activity Recognition Using Smartphones Data Set of the UCI Machine Learning Repository [link](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 Included in this project is the R script, run_analysis.R, which does the following:
 
 1. Reads in all the data files
